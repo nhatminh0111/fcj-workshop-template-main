@@ -1,26 +1,26 @@
-baseURL = "https://workshop-sample.fcjuni.com/"
+baseURL = "https://nhatminh0111.github.io/fcj-workshop-template-main/"
 relativeURLs = false
 canonifyURLs = false
 defaultContentLanguage = "en"
 
-# Change the default theme to be use when building the site with Hugo
+# Change the default theme to be used when building the site with Hugo.
 theme = "hugo-theme-learn"
 
-# For search functionality
+# For search functionality.
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
 [params]
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "workshop"
-  # Git hub repo link
+  # GitHub repo link.
   editURL = ""
   description = ""
   author = "nguyennhatminh01112004@gmail.com"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
-  
+
 [Languages]
 [Languages.en]
 title = "Internship Report"
