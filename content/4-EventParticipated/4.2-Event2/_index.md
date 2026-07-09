@@ -89,7 +89,7 @@ pre: " <b> 4.2. </b> "
 #### Some photos from the event
 
 <p align="center">
-  <img src="/images/4-Event/4.3-Event3/Event3.jpg" alt="Event 3 Photo" />
+  <img src="{{< relURL "images/4-Event/4.3-Event3/Event3.jpg" >}}" alt="Event 3 Photo" />
   <br>
   <em>Check-in photo</em>
 </p>

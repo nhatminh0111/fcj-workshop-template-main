@@ -92,37 +92,37 @@ pre: " <b> 4.1. </b> "
 #### Some photos from the event
 ![Event 2](/images/4-Event/4.2%20-Event2/E2.jpg) <small style="display: block; text-align: center;">Checkin</small>
 <p align="center">
-  <img src="/images/4-Event/4.2%20-Event2/Event2-1.jpg" alt="Event 2 Photo 1" />
+  <img src="{{< relURL "images/4-Event/4.2%20-Event2/Event2-1.jpg" >}}" alt="Event 2 Photo 1" />
   <br>
   <em><strong>Tinh Truong</strong> - Platforms Engineer, GoTymeX</em>
 </p>
 
 <p align="center">
-  <img src="/images/4-Event/4.2%20-Event2/Event2-2.jpg" alt="Event 2 Photo 2" />
+  <img src="{{< relURL "images/4-Event/4.2%20-Event2/Event2-2.jpg" >}}" alt="Event 2 Photo 2" />
   <br>
   <em><strong>Anh Pham</strong> - Cloud Consultant, G-AsiaPacific Vietnam</em>
 </p>
 
 <p align="center">
-  <img src="/images/4-Event/4.2%20-Event2/Event2-3.jpg" alt="Event 2 Photo 3" />
+  <img src="{{< relURL "images/4-Event/4.2%20-Event2/Event2-3.jpg" >}}" alt="Event 2 Photo 3" />
   <br>
   <em><strong>Thinh Nguyen</strong> - DevOps Engineer, FCAJ</em>
 </p>
 
 <p align="center">
-  <img src="/images/4-Event/4.2%20-Event2/Event2-4.jpg" alt="Event 2 Photo 4" />
+  <img src="{{< relURL "images/4-Event/4.2%20-Event2/Event2-4.jpg" >}}" alt="Event 2 Photo 4" />
   <br>
   <em><strong>Thao Nguyen, Mai Nguyen, and Uyen Le</strong> - GenAI Engineers, VIB</em>
 </p>
 
 <p align="center">
-  <img src="/images/4-Event/4.2%20-Event2/Event2-5.jpg" alt="Event 2 Photo 5" />
+  <img src="{{< relURL "images/4-Event/4.2%20-Event2/Event2-5.jpg" >}}" alt="Event 2 Photo 5" />
   <br>
   <em><strong>Duc Dao</strong> - Solutions Architect, Cloud Kinetics</em>
 </p>
 
 <p align="center">
-  <img src="/images/4-Event/4.2%20-Event2/Event2-6.jpg" alt="Event 2 Photo 6" />
+  <img src="{{< relURL "images/4-Event/4.2%20-Event2/Event2-6.jpg" >}}" alt="Event 2 Photo 6" />
   <br>
   <em><strong>Vy Lam</strong> - Senior Business Systems Analyst, VPBank</em>
 </p>

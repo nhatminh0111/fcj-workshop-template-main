@@ -39,5 +39,5 @@ Participating in the **“CLOUD ARCHITECT”** event was a very interesting expe
 
 #### Some images from participating in the event
 
-![Event 4](/images/4-Event/4.4-Event4/E4.jpg) <small style="display: block; text-align: center;">Checkin 1</small>
+![Event 4](/images/4-Event/4.4-Event4/E4.JPG) <small style="display: block; text-align: center;">Checkin 1</small>
 ![Event 4](/images/4-Event/4.4-Event4/E4-3.jpg) <small style="display: block; text-align: center;">Checkin 2</small>
