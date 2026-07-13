@@ -1,6 +1,6 @@
 ---
 title: "Events Participated"
-date: 2024-01-01
+date: 2026-07-13
 weight: 3
 chapter: false
 pre: " <b> 4. </b> "
@@ -25,9 +25,9 @@ pre: " <b> 4. </b> "
 &emsp;**Role in the Event:** Participant
 
 ### [Event 3](4.3-Event3/)
-&emsp;**Event Name:** Cloud Architect
+&emsp;**Event Name:** Event 11/07/2026
 
-&emsp;**Time:** 09:00 on June 20, 2026
+&emsp;**Time:** 09:00 on July 11, 2026
 
 &emsp;**Location:** 26th Floor, Bitexco Building, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 
