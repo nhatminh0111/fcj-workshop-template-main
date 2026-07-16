@@ -53,3 +53,4 @@ Sự kiện mang lại nhiều nội dung thực tế, kết hợp giữa bảo 
 ![Ảnh minh chứng](/images/4-Event/4.5-Event5/Event5-1.jpg) <small style="display: block; text-align: center;">*Thịnh Nguyễn*</small>
 ![Ảnh minh chứng](/images/4-Event/4.5-Event5/Event5-2.jpg) <small style="display: block; text-align: center;">*Nguyễn Huỳnh Sơn*</small>
 ![Ảnh minh chứng](/images/4-Event/4.5-Event5/Event5-3.jpg) <small style="display: block; text-align: center;">*Ngô Lê Tuấn Huy*</small>
+![Ảnh minh chứng](/images/4-Event/4.5-Event5/E5.jpeg) <small style="display: block; text-align: center;">*Ảnh minh chứng ( Góc trái ảnh )*</small>

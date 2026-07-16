@@ -54,3 +54,4 @@ The event provided a lot of practical content, combining application security, s
 ![Evidence image](/images/4-Event/4.5-Event5/Event5-1.jpg) <small style="display: block; text-align: center;">*Thinh Nguyen*</small>
 ![Evidence image](/images/4-Event/4.5-Event5/Event5-2.jpg) <small style="display: block; text-align: center;">*Nguyen Huynh Son*</small>
 ![Evidence image](/images/4-Event/4.5-Event5/Event5-3.jpg) <small style="display: block; text-align: center;">*Ngo Le Tuan Huy*</small>
+![Evidence image](/images/4-Event/4.5-Event5/E5.jpeg) <small style="display: block; text-align: center;">*Evidence image ( Left corner of the image )*</small>
